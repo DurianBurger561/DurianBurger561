@@ -1,5 +1,6 @@
 <img width="50" height="50" alt="1544x1544_circle" src="https://github.com/user-attachments/assets/55644d6f-64cc-4dd5-9fb4-645e91f5e4bd" /> <img width="70" height="70" alt="1cb1b0391da0247a0fc2903c26b63cbd" src="https://github.com/user-attachments/assets/28abd0dc-2970-476b-9284-c5fae0875af6" />
 <img width="120" height="120" alt="University_of_New_South_Wales_Logo" src="https://github.com/user-attachments/assets/81e1c0f5-9288-4a48-99b9-e11408e62f5a" />
+<img width="130" height="90" alt="C04A7C31-60A6-44CA-B85C-1FF5F638DC26" src="https://github.com/user-attachments/assets/8ce1a99c-61ce-43d2-a614-7a367c988d78" />
 
 
 ## 孩子们我回来了！

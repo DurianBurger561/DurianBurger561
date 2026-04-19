@@ -4,6 +4,6 @@
 
 ## 孩子们我回来了！
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AD56F7&width=435&lines=%E5%AD%A9%E5%AD%90%E4%BB%AC%E6%88%91%E5%9B%9E%E6%9D%A5%E4%BA%86!!!;%E6%AC%A2%E8%BF%8E%E6%88%91%E4%BB%AC)]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AD56F7&width=435&lines=%E5%AD%A9%E5%AD%90%E4%BB%AC%E6%88%91%E5%9B%9E%E6%9D%A5%E4%BA%86!!!;%E6%AC%A2%E8%BF%8E%E6%88%91%E4%BB%AC)
 
 <img width="100" alt="530297677-6e7bfe4c-933a-4560-a241-28d927c68d79" src="https://github.com/user-attachments/assets/03f8754b-5db1-4a99-957f-6e9bf6ace7c0" />

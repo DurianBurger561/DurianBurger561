@@ -1,4 +1,9 @@
-<img width="2142" height="438" alt="github_readme_logos_transparent" src="https://github.com/user-attachments/assets/bf1634af-712d-40ac-9f48-32f5f5583207" />
+<img width="250" height="106" alt="University_of_New_South_Wales_Logo" src="https://github.com/user-attachments/assets/ba6a08b5-7ea0-4c06-9fa6-396093a2b96d" />
+<img width="150" height="150" alt="catppucin logo" src="https://github.com/user-attachments/assets/b05a948c-948a-4775-aeb7-5ba8b428e371" />
+<img width="220" height="170" alt="C04A7C31-60A6-44CA-B85C-1FF5F638DC26" src="https://github.com/user-attachments/assets/158cc478-ad98-459e-84af-c25867595072" />
+<img width="150" height="150" alt="No_back_eng" src="https://github.com/user-attachments/assets/742155ad-c2a6-4bd4-ab94-dbb6af7d01d1" />
+
+
 
 
 

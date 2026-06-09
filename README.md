@@ -26,7 +26,7 @@
  <p>
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DurianBurger561&theme=dark" height="180"/>
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DurianBurger561&theme=dark" height="180"/>
-    <img src="https://streak-stats.demolab.com?user=DurianBurger561&theme=dark" height="180"/>
+    <img src="https://streak-stats.demolab.com?user=DurianBurger561&theme=dark&hide_border=true" height="180"/>
  </p>
  
  <a href="https://info.flagcounter.com/rLbJ"><img src="https://s01.flagcounter.com/countxl/rLbJ/bg_0D4DFF/txt_F5E020/border_544BCC/columns_4/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>

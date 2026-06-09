@@ -29,8 +29,7 @@
     <img src="https://streak-stats.demolab.com?user=DurianBurger561&theme=dark" height="180"/>
  </p>
  
- 
-
+ <a href="https://info.flagcounter.com/rLbJ"><img src="https://s01.flagcounter.com/countxl/rLbJ/bg_0D4DFF/txt_F5E020/border_544BCC/columns_4/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 ## Star History
 <a href="https://www.star-history.com/?repos=DurianBurger561%2FDurianBurger561&type=date&legend=top-left">

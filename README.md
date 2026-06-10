@@ -1,19 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/ba6a08b5-7ea0-4c06-9fa6-396093a2b96d">
-  <img width="250" height="106" alt="University_of_New_South_Wales_Logo" src="https://github.com/user-attachments/assets/ba6a08b5-7ea0-4c06-9fa6-396093a2b96d" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/b05a948c-948a-4775-aeb7-5ba8b428e371">
-  <img width="150" height="150" alt="catppucin logo" src="https://github.com/user-attachments/assets/b05a948c-948a-4775-aeb7-5ba8b428e371" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/158cc478-ad98-459e-84af-c25867595072">
-  <img width="220" height="170" alt="C04A7C31-60A6-44CA-B85C-1FF5F638DC26" src="https://github.com/user-attachments/assets/158cc478-ad98-459e-84af-c25867595072" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/742155ad-c2a6-4bd4-ab94-dbb6af7d01d1">
-  <img width="200" height="200" alt="No_back_eng" src="https://github.com/user-attachments/assets/742155ad-c2a6-4bd4-ab94-dbb6af7d01d1" />
-</picture>
+<img width="2650" height="670" alt="readme_logos_row_no_black_bg_hd" src="https://github.com/user-attachments/assets/8babbd76-87f6-4da0-8a1f-0f9faef2e0bc" />
+
 
 
 

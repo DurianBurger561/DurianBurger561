@@ -36,8 +36,8 @@
  </p>
 
  <p>
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DurianBurger561&cache_seconds=0&theme=dark" height="180"/>
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DurianBurger561&cache_seconds=0&theme=dark" height="180"/>
+   <img src="https://github-profile-summary-cards-ilzipvi2s.vercel.app/api/cards/stats?username=DurianBurger561&cache_seconds=0&theme=dark" height="180"/>
+   <img src="https://github-profile-summary-cards-ilzipvi2s.vercel.app/api/cards/repos-per-language?username=DurianBurger561&cache_seconds=0&theme=dark" height="180"/>
     <img src="https://streak-stats.demolab.com?user=DurianBurger561&cache_seconds=0&theme=dark&hide_border=true" height="180"/>
  </p>
  

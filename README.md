@@ -22,6 +22,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AD56F7&width=435&lines=%E5%AD%A9%E5%AD%90%E4%BB%AC%E6%88%91%E5%9B%9E%E6%9D%A5%E4%BA%86!!!;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5%EF%BC%8C%E8%B5%8F%E9%A2%97%E5%B0%8F%E6%98%9F%E6%98%9F%E5%91%97(%5E-%5E);%E4%B8%8D%E8%B5%8F%E4%B9%9F%E8%A1%8C%EF%BC%8C%E9%9A%8F%E4%BE%BF%E7%9C%8B%E7%9C%8B%E5%91%97+(%3E+%3C);Man+!+Welcome+to+my+profile!!!;How+about+giving+a+little+star%3F+(%5E-%5E);If+not+no+worries+haha;+Have+a+look+around+anyway+(%3E+%3C))](https://git.io/typing-svg)
 
+## 学习中/Learning
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+
+
  <p>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DurianBurger561&cache_seconds=0&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=ffffff" alt="Most Used Languages" />
  </p>

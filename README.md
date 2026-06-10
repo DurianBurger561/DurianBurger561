@@ -1,4 +1,4 @@
-<img width="2650" height="670" alt="readme_logos_row_no_black_bg_hd" src="https://images.weserv.nl/?url=https%3A%2F%2Fgithub.com%2Fuser-attachments%2Fassets%2F8babbd76-87f6-4da0-8a1f-0f9faef2e0bc&bg=0d1117&output=jpg&q=95" />
+<img width="2650" height="670" alt="readme_logos_row_no_black_bg_hd" src="https://github.com/user-attachments/assets/8babbd76-87f6-4da0-8a1f-0f9faef2e0bc" />
 
 
 

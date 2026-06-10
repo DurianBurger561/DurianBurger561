@@ -1,4 +1,8 @@
-<img width="2650" height="670" alt="readme_logos_row_no_black_bg_hd" src="https://images.weserv.nl/?url=https%3A%2F%2Fgithub.com%2Fuser-attachments%2Fassets%2F8babbd76-87f6-4da0-8a1f-0f9faef2e0bc&output=png" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2Fuser-attachments%2Fassets%2F8babbd76-87f6-4da0-8a1f-0f9faef2e0bc&output=png&bg=1f1d2d" />
+  <source media="(prefers-color-scheme: light)" srcset="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2Fuser-attachments%2Fassets%2F8babbd76-87f6-4da0-8a1f-0f9faef2e0bc&output=png&bg=ffffff" />
+  <img width="2650" height="670" alt="readme logos row" src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2Fuser-attachments%2Fassets%2F8babbd76-87f6-4da0-8a1f-0f9faef2e0bc&output=png&bg=ffffff" />
+</picture>
 
 
 

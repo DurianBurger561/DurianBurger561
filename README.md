@@ -27,7 +27,7 @@
     <img src="https://streak-stats.demolab.com?user=DurianBurger561&cache_seconds=0&theme=dark&hide_border=true" height="180"/>
  </p>
 
-## 👣 留下你的足迹 / Leave Your Footprint
+## 留下你的足迹 / Leave Your Footprint
 
 <b>👉 <a href="https://s01.flagcounter.com/countxl/rLbJ/bg_0D4DFF/txt_F5E020/border_544BCC/columns_4/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" target="_blank">点击这里，让你的国旗出现在下方！ / Click here to put your flag on the board below!</a></b>
 

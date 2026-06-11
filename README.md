@@ -18,7 +18,7 @@
 
 
  <p>
-   <img src="https://github-readme-stats-psi-five-99.vercel.app/api/top-langs/?username=DurianBurger561&count_private=true&cache_seconds=0&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DurianBurger561&count_private=true&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
  </p>
 
  <p>

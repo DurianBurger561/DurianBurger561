@@ -1,4 +1,4 @@
-<img width="2650" height="240" alt="readme logos row" src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2Fuser-attachments%2Fassets%2F8babbd76-87f6-4da0-8a1f-0f9faef2e0bc&output=png" />
+<img alt="readme logos row" src="https://github.com/user-attachments/assets/8babbd76-87f6-4da0-8a1f-0f9faef2e0bc" width="2650" />
 
 
 

@@ -29,7 +29,7 @@
 
 ## 留下你的足迹 / Leave Your Footprint
 
-<b>👉 <a href="https://s01.flagcounter.com/countxl/rLbJ/bg_0D4DFF/txt_F5E020/border_544BCC/columns_4/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" target="_blank">点击这里，让你的国旗出现在下方！ / Click here to put your flag on the board below!</a></b>
+<b>👉 <a href="https://s01.flagcounter.com/countxl/rLbJ/bg_0D4DFF/txt_F5E020/border_544BCC/columns_4/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" target="_blank">点击这里，让你的国（区）旗出现在下方！ / Click here to put your flag on the board below!</a></b>
 
 <a href="https://s01.flagcounter.com/countxl/rLbJ/bg_0D4DFF/txt_F5E020/border_544BCC/columns_4/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" target="_blank"><img src="https://s01.flagcounter.com/countxl/rLbJ/bg_0D4DFF/txt_F5E020/border_544BCC/columns_4/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 

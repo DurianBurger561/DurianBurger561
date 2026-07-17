@@ -15,7 +15,7 @@
 
  <p>
     <img src="https://github-readme-stats-psi-five-99.vercel.app/api?username=DurianBurger561&count_private=true&show_icons=true&cache_seconds=0&theme=dark&hide_border=true&bg_color=0d1117" height="180"/>
-    <img src="https://streak-stats.demolab.com?user=DurianBurger561&cache_seconds=0&theme=dark&hide_border=true" height="180"/>
+
  </p>
 
 留下你的足迹 / Leave Your Footprint
